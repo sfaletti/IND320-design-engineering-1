@@ -1,36 +1,5 @@
 # IND 320-06 — Fall 2023
 
-- [IND 320-06 — Fall 2023](#ind-320-06--fall-2023)
-  - [Course Information](#course-information)
-  - [Instructor Information](#instructor-information)
-  - [Course Description](#course-description)
-    - [Bulletin Description:](#bulletin-description)
-    - [Detailed Description:](#detailed-description)
-    - [Course Goals:](#course-goals)
-      - [Student Learning Objectives:](#student-learning-objectives)
-  - [Course Schedule:](#course-schedule)
-    - [Week 1: Introduction \& Subtractive Methodologies](#week-1-introduction--subtractive-methodologies)
-    - [Week 2: Extrusion](#week-2-extrusion)
-    - [Week 3: Bending](#week-3-bending)
-    - [Week 4: Sheet forming (simple curves and bends, NO internal features)](#week-4-sheet-forming-simple-curves-and-bends-no-internal-features)
-    - [Week 5: Sheet Forming (complex surface, No internal features)](#week-5-sheet-forming-complex-surface-no-internal-features)
-    - [Week 6: Forging](#week-6-forging)
-    - [Week 7: Rotational Molding and Casting](#week-7-rotational-molding-and-casting)
-    - [Week 8: Midterm Exam](#week-8-midterm-exam)
-    - [Week 9:](#week-9)
-    - [Week 10: Injection Molding 2 of 2](#week-10-injection-molding-2-of-2)
-    - [Week 11: Composites](#week-11-composites)
-    - [Week 12: Studio Project Lab](#week-12-studio-project-lab)
-    - [Week 13: Studio Project Lab CAD LAB](#week-13-studio-project-lab-cad-lab)
-    - [Week 14: Studio Project Lab CAD LAB](#week-14-studio-project-lab-cad-lab)
-    - [Week 15: Final Exam Finals due.](#week-15-final-exam-finals-due)
-  - [Course Requirements](#course-requirements)
-    - [Textbooks, Readings, and Materials:](#textbooks-readings-and-materials)
-    - [Project(s), paper(s), assignment(s):](#projects-papers-assignments)
-    - [Assessment and Grading:](#assessment-and-grading)
-      - [Standards for assigning course grades for example:](#standards-for-assigning-course-grades-for-example)
-  - [POLICIES](#policies) - [Pratt Attendance Policy:](#pratt-attendance-policy) - [Policy on students with disabilities:](#policy-on-students-with-disabilities) - [Inclusion:](#inclusion)
-
 ### Course Information
 
 |                    |                      |            |          |          |         |
