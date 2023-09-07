@@ -1,4 +1,35 @@
-## IND 320-06 — Fall 2023
+# IND 320-06 — Fall 2023
+
+- [IND 320-06 — Fall 2023](#ind-320-06--fall-2023)
+  - [Course Information](#course-information)
+  - [Instructor Information](#instructor-information)
+  - [Course Description](#course-description)
+    - [Bulletin Description:](#bulletin-description)
+    - [Detailed Description:](#detailed-description)
+    - [Course Goals:](#course-goals)
+      - [Student Learning Objectives:](#student-learning-objectives)
+  - [Course Schedule:](#course-schedule)
+    - [Week 1: Intorduction \& Subtractive Methodologies](#week-1-intorduction--subtractive-methodologies)
+    - [Week 2: Extrusion](#week-2-extrusion)
+    - [Week 3: Bending](#week-3-bending)
+    - [Week 4: Sheet forming (simple curves and bends, NO internal features)](#week-4-sheet-forming-simple-curves-and-bends-no-internal-features)
+    - [Week 5: Sheet Forming (complex surface, No internal features)](#week-5-sheet-forming-complex-surface-no-internal-features)
+    - [Week 6: Forging](#week-6-forging)
+    - [Week 7: Rotational Molding and Casting](#week-7-rotational-molding-and-casting)
+    - [Week 8: Midterm Exam](#week-8-midterm-exam)
+    - [Week 9:](#week-9)
+    - [Week 10: Injection Molding 2 of 2](#week-10-injection-molding-2-of-2)
+    - [Week 11: Composites](#week-11-composites)
+    - [Week 12: Studio Project Lab](#week-12-studio-project-lab)
+    - [Week 13: Studio Project Lab CAD LAB](#week-13-studio-project-lab-cad-lab)
+    - [Week 14: Studio Project Lab CAD LAB](#week-14-studio-project-lab-cad-lab)
+    - [Week 15: Final Exam Finals due.](#week-15-final-exam-finals-due)
+  - [Course Requirements](#course-requirements)
+    - [Textbooks, Readings, and Materials:](#textbooks-readings-and-materials)
+    - [Project(s), paper(s), assignment(s):](#projects-papers-assignments)
+    - [Assessment and Grading:](#assessment-and-grading)
+      - [Standards for assigning course grades for example:](#standards-for-assigning-course-grades-for-example)
+  - [POLICIES](#policies) - [Pratt Attendance Policy:](#pratt-attendance-policy) - [Policy on students with disabilities:](#policy-on-students-with-disabilities) - [Inclusion:](#inclusion)
 
 ### Course Information
 
@@ -155,3 +186,56 @@ Continuation of Week 13 lesson.
 Continuation of Week 13 lesson.
 
 ### Week 15: Final Exam Finals due.
+
+## Course Requirements
+
+### Textbooks, Readings, and Materials:
+
+- [_Making It: 3rd Edition_, Chris Leferti](https://www.amazon.com/MAKING-THIRD-ANGLAIS-LEFTERI-CHRIS-dp-1786273276/dp/1786273276/ref=dp_ob_title_bk)
+- Materials and Design; Mike Ashby & Kara Johnson
+
+### Project(s), paper(s), assignment(s):
+
+- CAD Projects 1-7
+- 9 In class drawing quizzes.
+- Final Design Studio Project Analysis
+- Final Exam (TBD)
+
+### Assessment and Grading:
+
+Your grade will be based on the following:
+
+- Section participation 10%
+- CAD Projects 20%
+- Quizzes 20%
+- Studio Project Analysis 25% Final exam 25% 100%
+
+#### Standards for assigning course grades for example:
+
+- A = sustained level of superior performance demonstrated in all areas of Course Requirements
+  Page 5
+- B = consistent level of performance that is above average in a majority of the Course Requirements
+- C = performance that is generally average and Course Requirements are achieved
+- D = below average performance and achievement of the Course Requirements
+- F = accomplishment of the Course Requirements is not sufficient to receive a passing grade
+
+_Pratt Institute’s Grading System can be found in the Undergraduate and Graduate Bulletins._
+
+## POLICIES
+
+Institute-wide policies listed in the “Community Standards” section of the bulletin:
+This course adheres to all academic integrity, plagiarism, computer and network use policies, listed in the bulletin.
+
+##### Pratt Attendance Policy:
+
+There are no excused absences or cuts. Students are expected to attend all classes. Any absences may affect the final grade. Three absences may result in course failure at the discretion of the instructor. The attendance policy for this course will be consistent with the Institute Policy as stated above.
+
+##### Policy on students with disabilities:
+
+This course adheres to all Pratt policies on students with disabilities as listed in the bulletin.
+Students who require special accommodations for disabilities must obtain clearance from the Office of Disability Services at the beginning of the semester. They should contact Mai McDonald Graves, Director of Disability Resource Center, 718-802-3123.
+Any additional applicable school, departmental, or personal course policies:
+
+##### Inclusion:
+
+As a member of the Industrial Design faculty at Pratt, I am committed to supporting diversity and inclusion inside and outside of the classroom. I will endeavor to practice empathy, good listenership, patience, and openness to perspectives and contexts that are beyond my own. I hope that we can share the power to learn together while building towards a welcoming, rewarding, and supportive space for all. I seek to be flexible in my class to incorporate new understandings and lived experiences as they arise and encourage my students to do the same.
