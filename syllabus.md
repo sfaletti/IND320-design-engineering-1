@@ -9,7 +9,7 @@
     - [Course Goals:](#course-goals)
       - [Student Learning Objectives:](#student-learning-objectives)
   - [Course Schedule:](#course-schedule)
-    - [Week 1: Intorduction \& Subtractive Methodologies](#week-1-intorduction--subtractive-methodologies)
+    - [Week 1: Introduction \& Subtractive Methodologies](#week-1-introduction--subtractive-methodologies)
     - [Week 2: Extrusion](#week-2-extrusion)
     - [Week 3: Bending](#week-3-bending)
     - [Week 4: Sheet forming (simple curves and bends, NO internal features)](#week-4-sheet-forming-simple-curves-and-bends-no-internal-features)
@@ -78,7 +78,7 @@ _Students will be able to..._
 
 ## Course Schedule:
 
-### Week 1: Intorduction & Subtractive Methodologies
+### Week 1: Introduction & Subtractive Methodologies
 
 Students will begin the basic principles of milling and other machining processes. Whether manual mill via bridgeport 3 axis process, up to modern 6 axis CNC via HAAS etc. EDM “Electrical Discharge Machining (Wire & Plunge)”, its use cases and when one should or should not apply. Finally, “turning” via lathes and the benefits of each process.Discuss chip loading on end mills relative to material hardness.
 
