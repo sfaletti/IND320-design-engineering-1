@@ -49,9 +49,9 @@ _Students will be able to..._
 
 ### Week 1: Introduction & Subtractive Methodologies
 
-Students will begin the basic principles of milling and other machining processes. Whether manual mill via bridgeport 3 axis process, up to modern 6 axis CNC via HAAS etc. EDM “Electrical Discharge Machining (Wire & Plunge)”, its use cases and when one should or should not apply. Finally, “turning” via lathes and the benefits of each process.Discuss chip loading on end mills relative to material hardness.
+Students will begin the basic principles of milling and other machining processes. Whether manual mill via bridgeport 3 axis process, up to modern 6 axis CNC via HAAS etc. EDM “Electrical Discharge Machining (Wire & Plunge)”, its use cases and when one should or should not apply. Finally, “turning” via lathes and the benefits of each process. Discuss chip loading on end mills relative to material hardness.
 
-Implications on metal wood and plastic: Which plastics are suitable for machining? Hardness relative to Steel and Aluminum.
+Implications on metal, wood, and plastic: Which plastics are suitable for machining? Hardness relative to Steel and Aluminum.
 
 Discussion of tooling cost and complexity vs cycle time and part cost.
 
@@ -119,20 +119,26 @@ Cad Demo: Cavity/Cavity Molds. Draft Analysis. Silhouette split lines. Shell
 
 Series of Modeling problems and true false, multiple choice.
 
-### Week 9:
+### Week 9: Injection Molding 1 of 2
 
-Injection Molding 1 of 2
 What the hell is injection molding? It IS that mythical beast that is a catch all for when you don’t know what to say as a student. Mold types, Cycle time. Cooling, Mold flow. Side actions, Nominal wall. Draft.
+
 Amortization, vs part quantity
+
 Implications on metal ceramic and plastic.
+
 Discussion of tooling cost and complexity
+
 Cad Demo: Shell, Ribs, Bosses, Lip/Groove, Flow analysis.
 
 ### Week 10: Injection Molding 2 of 2
 
 Bi injection, Tri-injection Overmolding, Insert molding Structural features. Fastening features Parting lines
+
 Implications on metal ceramic and plastic.
+
 Discussion of tooling cost and complexity
+
 Cad Demo: Multiple Bodies, Split parts, Assemblies
 
 ### Week 11: Composites
